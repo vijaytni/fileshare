@@ -46,7 +46,7 @@
             "engineDetails"[
                "component":"Capacity",
                "unit":"mm",
-               "componentValue":73.0 x 79.5
+               "componentValue":"73.0 x 79.5"
             ],
             "engineDetails"[
                "component":"Number of values",
@@ -55,12 +55,12 @@
             "engineDetails"[
                "component":"Maximum Power",
                "unit":"PS/rpm",
-               "componentValue":97/6200
+               "componentValue":"97/6200"
             ],
             "engineDetails"[
                "component":"Maximum Torque",
                "unit":"NM/rpm",
-               "componentValue":90/3500
+               "componentValue":"90/3500"
             ]
          }
       ]
