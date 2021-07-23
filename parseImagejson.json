@@ -1,0 +1,66 @@
+[
+   "technicalSpecifications"{
+      "dimensions"[
+         "specification":"Overall Length",
+         "unit":"mm",
+         "length":3500,
+         "detaileSpecifcaion":"Track Width"[
+            "specifcations"[
+               "specification":"Front",
+               "unit":"mm",
+               "length":1405
+            ],
+            [
+               "specification":"Rear",
+               "unit":"mm",
+               "length":1400
+            ]
+         }[
+            "capacities"[
+               "capacityType":"Seating Capacity",
+               "type":"persons",
+               "volume":5
+            ][
+               "capacityType":"fuel Capacity",
+               "type":"liters",
+               "volume":35
+            ]
+         }"engineList"{
+            "engineDetails"[
+               "component":"Type",
+               "componentValue":"KB-Series"
+            ],
+            "engineDetails"[
+               "component":"Number of Cylinders",
+               "componentValue":3
+            ],
+            "engineDetails"[
+               "component":"Number of values",
+               "componentValue":12
+            ],
+            "engineDetails"[
+               "component":"Capacity",
+               "unit":"cc/cm3",
+               "componentValue":998
+            ],
+            "engineDetails"[
+               "component":"Capacity",
+               "unit":"mm",
+               "componentValue":73.0 x 79.5
+            ],
+            "engineDetails"[
+               "component":"Number of values",
+               "componentValue":12
+            ],
+            "engineDetails"[
+               "component":"Maximum Power",
+               "unit":"PS/rpm",
+               "componentValue":97/6200
+            ],
+            "engineDetails"[
+               "component":"Maximum Torque",
+               "unit":"NM/rpm",
+               "componentValue":90/3500
+            ]
+         }
+      ]
